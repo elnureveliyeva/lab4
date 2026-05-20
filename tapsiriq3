@@ -1,1 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Tapşırıq3</title>
+</head>
+<body>
+    <div class="card">
+        <img src="apple.jfif" alt="img" width="150">
+        <h3>iPhone 13</h3>
+        <p>1200 AZN</p>
+    </div>
+</body>
+</html>
 
+.card{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 250px;
+    height: 500px;
+}
+h1{
+    margin: auto;
+}
+p{
+    color: green;
+}
