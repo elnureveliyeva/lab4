@@ -8,3 +8,7 @@
     <img src="sekil.jfif" alt="Bayraq">
 </body>
 </html>
+
+body{
+    background-color: yellow;
+} 
